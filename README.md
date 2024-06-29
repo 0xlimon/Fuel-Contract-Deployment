@@ -60,7 +60,6 @@ Before you begin, ensure you have met the following requirements:
 ## Features
 
 - **Randomized Deployment**: Deploy contracts for multiple wallets randomly.
-- **Scheduled Interactions**: Interact with the contracts at random intervals.
 - **Result Logging**: Log results for each wallet and contract.
 
 ## License
