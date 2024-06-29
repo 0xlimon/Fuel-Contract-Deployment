@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@hapi/hawk": "^8.0.0",
+    "@hapi/hoek": "^11.0.4",
+    "@hapi/sntp": "^4.0.0",
+    "axios": "^1.7.2",
+    "axios-https-proxy-fix": "^0.17.1",
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "fuel": "^0.6.0",
+    "fuels": "^0.90.0",
+    "https-proxy-agent": "^7.0.4",
+    "mime": "^4.0.3",
+    "node-fetch": "^3.3.2",
+    "ora": "^8.0.1",
+    "qs": "^6.12.1",
+    "readline-sync": "^1.4.10",
+    "tunnel-agent": "^0.6.0"
+  }
+}
