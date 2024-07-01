@@ -141,7 +141,7 @@ const generateBiasedRandomNumber = () => {
     }
 };
 
-// تابع برای تعامل با کانترکت
+
 const interactWithContract = async () => {
     const deployedContracts = loadDeployedContractInfo();
     const walletAddresses = Object.keys(deployedContracts);
