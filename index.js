@@ -183,7 +183,7 @@ const interactWithContract = async () => {
                 const response = await contract.functions.fizzbuzz(input).txParams({ gasLimit: 100000 }).call();
                 const result = response.value;
 
-                // نمایش نتیجه FizzBuzz
+                // FizzBuzz Result
                 let resultText = '';
                 switch (result) {
                     case 'Fizz':
